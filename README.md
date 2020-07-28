@@ -1,2 +1,2 @@
-# hello-word
+# hola-mundo
 Ideas y proyectos
